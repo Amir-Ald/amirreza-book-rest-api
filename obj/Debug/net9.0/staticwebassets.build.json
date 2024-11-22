@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EFB6o89By8bfLIAkAXRNCn27CHLM+wIntSqj3+xlkxY=",
+  "Source": "BookRestApi",
+  "BasePath": "_content/BookRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
